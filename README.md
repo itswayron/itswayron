@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o Wayron!
 
-Desenvolvedor apaixonado por programação, com foco em back-end e engenharia de software
+<img alt="gif animado" height="150" src="7nd28d.gif" align="right" />
+
+Desenvolvedor apaixonado por programação, com foco em back-end e engenharia de software.
 
 - 🎓 Graduando em Engenharia de Software — UniSenai PR  
 - 💻 Técnico em Informática — SENAC
-
-<img alt="gif animado" height="150" src="7nd28d.gif" />
 
 ---
 
