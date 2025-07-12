@@ -5,7 +5,7 @@ Desenvolvedor apaixonado por programação, com foco em back-end e engenharia de
 - 🎓 Graduando em Engenharia de Software — UniSenai PR  
 - 💻 Técnico em Informática — SENAC
 
-<img align="right" height="150" src="7nd28d.gif"  />
+<img alt="gif animado" height="150" src="7nd28d.gif" />
 
 ---
 
